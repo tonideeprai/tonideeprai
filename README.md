@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**tonideeprai/tonideeprai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi👋, &nbsp;I'm Toni, &nbsp;an &nbsp;[IT Professional](https://www.linkedin.com/in/toni-deeprai-477867327)
 
-Here are some ideas to get you started:
+## 👨‍💻 Information Technology Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Microsoft Azure**
+  - [Virtual machine (Creating and Interaction showcase)](asdsdsds)
+
+- **osTicket (Help Desk Ticketing System)**
+  - [osTicket: Installation](asdasds)
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/Josh
