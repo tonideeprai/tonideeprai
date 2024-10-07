@@ -7,7 +7,7 @@
   - [Virtual machine (Creating and Interaction showcase)](asdsdsds)
 
 - **osTicket (Help Desk Ticketing System)**
-  - [osTicket: Installation](asdasds)
+  - [osTicket: Installation](https://github.com/tonideeprai/osticket-prereqs)
 
 <h2>Connect with me:</h2>
 
