@@ -5,6 +5,7 @@
 
 - **Microsoft Azure**
   - [Creating and Connecting Virtual Machine](https://github.com/tonideeprai/azure-vm-tutorial)
+  - [Inspecting Network Traffic in Azure](https://github.com/tonideeprai/azure-traffic-insp)
 
 - **osTicket (Help Desk Ticketing System)**
   - [osTicket: Prerequisites and Installation](https://github.com/tonideeprai/osticket-prereqs)<br>
