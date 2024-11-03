@@ -4,7 +4,7 @@
 ## 👨‍💻 Information Technology Projects:
 
 - **Microsoft Azure**
-  - [Create and Connect Virtual Machine](asdsdsds)
+  - [Create and Connect Virtual Machine](https://github.com/tonideeprai/azure-vm-tutorial)
 
 - **osTicket (Help Desk Ticketing System)**
   - [osTicket: Prerequisites and Installation](https://github.com/tonideeprai/osticket-prereqs)<br>
